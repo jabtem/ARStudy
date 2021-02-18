@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01.Scenes/AR_STUDY3.unity
-    guid: a5241b6e99683fb4ba2c7ccc224a8ab6
+    path: Assets/01.Scenes/GPS_STUDY1.unity
+    guid: 2c085f692d291a04c8436942e4056561
   m_configObjects: {}
