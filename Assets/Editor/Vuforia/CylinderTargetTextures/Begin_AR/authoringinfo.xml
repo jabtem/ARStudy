@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="coke_can_cover" version="3.0" targetId="e9795d6921fe43bfa724794555bc276c" sideLength="180.000000" topDiameter="90.000000" bottomDiameter="90.000000" sideImage="coke_can_cover.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

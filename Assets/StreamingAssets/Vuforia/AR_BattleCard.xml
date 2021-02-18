@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Card_sword" size="50.000000 73.778503" />
+    <ImageTarget name="Card_sasin" size="50.000000 73.538963" />
+    <ImageTarget name="Card_dal" size="50.000000 73.289902" />
+  </Tracking>
+</QCARConfig>
